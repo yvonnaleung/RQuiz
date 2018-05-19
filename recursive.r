@@ -13,6 +13,6 @@ fac <- function(n) {
   # 1! = 1
   # n! = n * (n-1)!
   # You are not allowed to use a built-in function for doing this.
-  factorial(n)
+  n
 }
 
